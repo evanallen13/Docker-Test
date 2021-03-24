@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2W2Enjz3j7Ex+mT6VzrrZstmBP7mZcnDcYqGiEhzSL9wVlDweOJWlm47q0saBXxlXnQB5iGEOjJmiwCcWFDh/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\evana\\source\\repos\\dockertest\\dockertest\\dockertest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\evana\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
